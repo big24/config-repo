@@ -9,7 +9,7 @@ spring:
   application:
     name: order
 server:
-    port: 8801
+  port: 8801
 env: 
   dev222
 girl:
