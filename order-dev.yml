@@ -11,7 +11,7 @@ spring:
 server:
   port: 8801
 env: 
-  dev222
+  dev2
 girl:
   name: test1
-  age: 123
+  age: 1234
