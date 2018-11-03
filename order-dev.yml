@@ -9,9 +9,9 @@ spring:
   application:
     name: order
 server:
-  port: 8801
+    port: 8801
 env: 
-  dev
+  dev222
 girl:
   name: test1
   age: 123
